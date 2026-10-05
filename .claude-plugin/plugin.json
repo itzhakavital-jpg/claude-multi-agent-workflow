@@ -1,0 +1,11 @@
+{
+  "name": "api-quality",
+  "version": "0.1.0",
+  "description": "Code quality workflow for Express APIs: a read-only reviewer, a test writer, a /quality-check command that runs them as a workflow, a conventions skill and a lint-on-edit hook.",
+  "author": {
+    "name": "Itzhak Avital"
+  },
+  "repository": "https://github.com/itzhakavital-jpg/claude-multi-agent-workflow",
+  "license": "MIT",
+  "keywords": ["code-quality", "review", "testing", "express", "workflow"]
+}
